@@ -20,4 +20,4 @@ dependency-reduced-pom.xml
 buildNUMBER.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
-.idias
+.idea/
